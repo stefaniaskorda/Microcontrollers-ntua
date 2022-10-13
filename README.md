@@ -1,6 +1,6 @@
 # Microcontrollers-ntua
 
-This project was built for the ATmega16 microcontroller and to be compatible with EasyAVR6 development board. This project was for the lesson of Microcontrollers Lab at National Technical University of Athens.
+This project was built at Microchip Studio for the ATmega16 microcontroller and to be compatible with EasyAVR6 development board. This project was for the lesson of Microcontrollers Lab at National Technical University of Athens.
 
 ### Generator producing a changing electrical voltage using AtMega16
 

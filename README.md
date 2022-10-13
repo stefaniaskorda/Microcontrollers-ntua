@@ -26,3 +26,5 @@ The PWM_init() routine initializes timers TMR0, TMR1A and TMR2 appropriately to 
 ## Implementation: 
 
 We created a code in C language to initialize Timer/Counter1 to produce a PWM waveform with a frequency of 4KHz. Each time key 1 is pressed it will be incremented by 1 the Duty Cycle of the waveform at pin PB3. Every time it is pressed key 2 it decreases the Duty Cycle of the same waveform by 1. Duty Cycle takes values ​​from 0 to 255. Also the code initializes the built-in ADC converter to read the value of the voltage at pin PA0 and display it on the LCD screen with an accuracy of two decimal places digits, in the format shown in the figure below.
+
+<img src = "https://github.com/stefaniaskorda/Microcontrollers-ntua/blob/main/microphoto.png" width = "500">
